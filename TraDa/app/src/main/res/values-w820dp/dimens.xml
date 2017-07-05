@@ -1,0 +1,6 @@
+<resources>
+    <!-- Ví dụ về tùy chỉnh kích thước được định nghĩa trước trong res / values / dimens.xml
+    (chẳng hạn như lề màn hình) cho màn hình có chiều rộng sẵn có trên 820dp.
+    Bao gồm thiết bị 7 và 10 inch trong chế độ ngang (~ 960dp và ~ 1280dp tương ứng). -->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>

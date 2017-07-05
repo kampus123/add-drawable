@@ -1,0 +1,7 @@
+<resources>
+    <!-- Chiều cao của mỗi item trong list -->
+    <dimen name="list_item_height">88dp</dimen>
+    <!-- Lề mặc định theo Android Design Guideline -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
